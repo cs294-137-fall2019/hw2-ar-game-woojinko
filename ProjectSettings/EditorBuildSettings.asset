@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 60432775314fd40289e7b547b8d4989a
+  - enabled: 0
+    path: Assets/Scenes/PlaneIdentification.unity
+    guid: d177bc6712c7045bbb1118b9899f6d98
+  - enabled: 0
+    path: Assets/Scenes/GameBoardPlacement.unity
+    guid: c13d74f5364894fd09ed085e59ac1724
+  - enabled: 0
+    path: Assets/Scenes/InteractableObjects.unity
+    guid: 07a886bf063b64dd6bfb03a33a1f497b
+  - enabled: 1
+    path: Assets/Scenes/TicTacToe.unity
+    guid: 0f8a3a12fc22f49338fa58731efb7f31
+  m_configObjects: {}
